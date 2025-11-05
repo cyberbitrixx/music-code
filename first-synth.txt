@@ -1,0 +1,3 @@
+  note("<36 43, 52 59 62 64>*22").sound("triangle, sawtooth")
+._punchcard({width: 600})
+
