@@ -1,0 +1,4 @@
+setcpm(90/4)
+note("- 45, 50 60 48 [55 45*8]").sound("triangle sawtooth")
+._punchcard({width: 600})
+
